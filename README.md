@@ -1,9 +1,9 @@
 
 ---
 identitas
--Nama : Rahmi Hidayah
--NPM : 2210010376
--Kelas : 5B Nonreg Banjarmasin
+- Nama : Rahmi Hidayah
+- NPM : 2210010376
+- Kelas : 5B Nonreg Banjarmasin
 
 Program Pertambahan Dua Angka
 
